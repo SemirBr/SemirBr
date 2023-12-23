@@ -1,23 +1,15 @@
 <h1 align="center">Hi 👋, I'm Semir</h1>
-<h3 align="center">A passionate frontend developer from Bulgaria</h3>
+<h3 align="center">A intern Java developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semirbr&label=Profile%20views&color=0e75b6&style=flat" alt="semirbr" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semirbr" alt="semirbr" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/brahimbasev" target="blank"><img src="https://img.shields.io/twitter/follow/brahimbasev?logo=twitter&style=for-the-badge" alt="brahimbasev" /></a> </p>
+- 🔭 I’m currently working on [Employee Management System](https://github.com/SemirBr/EmployeeManagementSystem)
 
-- 🔭 I’m currently working on [Rusev-Clinic](https://github.com/SemirBr/Rusev-Clinic)
-
-- 🌱 I’m currently learning **at Plovdiv University**
-
-- 🤝 I’m looking for help with [Aldagon](https://github.com/SemirBr/Aldagon)
-
-- 💬 Ask me about **any questions**
+- 🌱 I’m currently learning **at Plovdiv University and Sirma Academy**
 
 - 📫 How to reach me **brahimbashev@abv.bg**
-
-- ⚡ Fun fact **I think I am funny**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
