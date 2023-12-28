@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Semir</h1>
-<h3 align="center">Developer from Bulgaria</h3>
+<h3 align="center">Software Developer from Bulgaria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semirbr&label=Profile%20views&color=0e75b6&style=flat" alt="semirbr" /> </p>
 
